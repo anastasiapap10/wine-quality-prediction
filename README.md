@@ -25,8 +25,7 @@ A machine learning project to predict wine quality based on chemical properties.
 - Scikit-learn
 
 ## Results
-Compared Linear Regression and Random Forest models for wine quality prediction. Random Forest performed better, with an R² score of 40% and a lower MSE than Linear Regression.
-
+Compared Linear Regression and Random Forest models for wine quality prediction. Random Forest achieved the best performance, with an R² of 0.539 and an MSE of 0.301, outperforming Linear Regression (R² = 0.403, MSE = 0.390).
 ## How to run
 1. Clone the repository
 2. Install the required packages
