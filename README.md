@@ -25,9 +25,10 @@ Machine learning project for predicting wine quality based on chemical propertie
 - Scikit-learn
 
 ## Results
-[briefly describe the main result here]
+Compared Linear Regression and Random Forest models for predicting wine quality. Random Forest achieved better predictive performance based on the evaluation metrics.
 
 ## How to run
-1. Install the required packages
-2. Open the notebook
-3. Run the cells
+1. Clone the repository
+2. Install the required packages
+3. Open `wine_quality_prediction.ipynb`
+4. Run the notebook cells
